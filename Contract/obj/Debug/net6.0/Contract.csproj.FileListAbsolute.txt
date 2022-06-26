@@ -1,0 +1,12 @@
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/bin/Debug/net6.0/Contract.deps.json
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/bin/Debug/net6.0/Contract.dll
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/bin/Debug/net6.0/Contract.pdb
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/obj/Debug/net6.0/Contract.csproj.AssemblyReference.cache
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/obj/Debug/net6.0/Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/obj/Debug/net6.0/Contract.AssemblyInfoInputs.cache
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/obj/Debug/net6.0/Contract.AssemblyInfo.cs
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/obj/Debug/net6.0/Contract.csproj.CoreCompileInputs.cache
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/obj/Debug/net6.0/Contract.dll
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/obj/Debug/net6.0/refint/Contract.dll
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/obj/Debug/net6.0/Contract.pdb
+/Users/andersonoliveira/Projects/MCSAtividade1/Contract/obj/Debug/net6.0/ref/Contract.dll
