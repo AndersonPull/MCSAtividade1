@@ -1,0 +1,15 @@
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/bin/Debug/net5.0/BLL.deps.json
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/bin/Debug/net5.0/BLL.dll
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/bin/Debug/net5.0/BLL.pdb
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/bin/Debug/net5.0/Contract.dll
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/bin/Debug/net5.0/Contract.pdb
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/obj/Debug/net5.0/BLL.csproj.AssemblyReference.cache
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/obj/Debug/net5.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/obj/Debug/net5.0/BLL.AssemblyInfoInputs.cache
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/obj/Debug/net5.0/BLL.AssemblyInfo.cs
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/obj/Debug/net5.0/BLL.csproj.CoreCompileInputs.cache
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/obj/Debug/net5.0/BLL.csproj.CopyComplete
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/obj/Debug/net5.0/BLL.dll
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/obj/Debug/net5.0/ref/BLL.dll
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/obj/Debug/net5.0/BLL.pdb
+/Users/andersonoliveira/Projects/MCSAtividade1/BLL/obj/Debug/net5.0/refint/BLL.dll

@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{2E03BDFD-48D1-491F-BE77-DE1D9E2A7D1C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MCSAtividade1/Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="MCSAtividade1/Startup.cs" Line="46" Column="1" />
+      <File FileName="MCSAtividade1/appsettings.json" Line="1" Column="1" />
+      <File FileName="MCSAtividade1/Controllers/ProductsController.cs" Line="33" Column="2" />
+      <File FileName="Contract/Models/Product/Item.cs" Line="2" Column="1" />
+      <File FileName="Contract/Models/Product/ProductChanged.cs" Line="1" Column="1" />
+      <File FileName="Contract/Enums/Product/ProductState.cs" Line="1" Column="1" />
+      <File FileName="MCSAtividade1/MCSAtividade1.csproj" Line="24" Column="17" />
+      <File FileName="BLL/Bll/Product/IProductBll.cs" Line="8" Column="29" />
+      <File FileName="BLL/Bll/Product/Implementation/ProductBll.cs" Line="12" Column="36" />
+      <File FileName="Contract/Models/Product/Product.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MCSAtividade1" expanded="True" selected="True">
+            <Node name="BLL" expanded="True">
+              <Node name="Bll" expanded="True">
+                <Node name="Product" expanded="True">
+                  <Node name="Implementation" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="MCSAtividade1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MCSAtividade1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
